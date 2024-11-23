@@ -1,1 +1,1 @@
-# OpenshiftTest
+# Openshift Websphere-Liberty test
